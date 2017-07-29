@@ -1,0 +1,11 @@
+name: Text_Prediction
+title: Text_Prediction
+account: badalc
+server: shinyapps.io
+appId: 200445
+bundleId: 920121
+url: https://badalc.shinyapps.io/Text_Prediction/
+when: 1501321916.76605
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test1.html|test1.Rmd
