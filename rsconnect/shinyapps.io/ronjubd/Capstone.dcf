@@ -1,0 +1,12 @@
+name: Capstone
+title: Capstone
+username:
+account: ronjubd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1399139
+bundleId: 2550667
+url: https://ronjubd.shinyapps.io/Capstone/
+when: 1572425610.17344
+asMultiple: FALSE
+asStatic: FALSE

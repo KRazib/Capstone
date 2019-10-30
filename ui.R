@@ -9,14 +9,14 @@
 
 ### Data Science Capstone : Course Project
 ### ui.R file for the Shiny app
-### Github repo : https://github.com/sriharshams/coursera-data-science-capstone
+### Github repo : https://github.com/KRazib/Capstone
 suppressWarnings(library(shiny))
 suppressWarnings(library(markdown))
 shinyUI(navbarPage("Capstone: Course Project",
                    tabPanel("Predict the Next Word",
-                            HTML("<strong>Author: Badal Chowdhury</strong>"),
+                            HTML("<strong>Author: Razib Ahamed Khan</strong>"),
                             br(),
-                            HTML("<strong>Date: 29/07/2017</strong>"),
+                            HTML("<strong>Date: 30/10/2019</strong>"),
                             br(),
                             img(src = "headers.png"),
                             # Sidebar

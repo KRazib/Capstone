@@ -8,7 +8,7 @@
 #
 ### Data Science Capstone : Course Project
 ### server.R file for the Shiny app
-### Github repo : https://github.com/justusfrantz/capstone
+### Github repo : https://github.com/KRazib/Capstone
 suppressWarnings(library(tm))
 suppressWarnings(library(stringr))
 suppressWarnings(library(shiny))

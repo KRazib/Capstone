@@ -1,7 +1,7 @@
 ---
-title: "Coursera Data Science Capstone - Final Project Submission"
-author: "Badal Chowdhury"
-date: "7/29/2017"
+title: "Capstone Final Project Submission"
+author: "Razib Ahamed Khan"
+date: "31/10/2019"
 output: 
   revealjs::revealjs_presentation:
     incremental: true
@@ -28,7 +28,7 @@ library('revealjs')
   The goal of this exercise is to create a product to highlight the prediction algorithm that you have built and to provide an interface that can be accessed by others. For this project you must submit:
 
   - A Shiny app that takes as input a phrase (multiple words) in a text box input and outputs a prediction of the next word.
-  - A slide deck consisting of no more than 5 slides created with [R Studio Presenter](https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations) pitching your algorithm and app as if you were presenting to your boss or an investor.
+  - A slide deck consisting of no more than 5 slides pitching your algorithm and app as if you were presenting to your boss or an investor.
 
 ## 1.2 Review criteria
 
@@ -58,7 +58,7 @@ library('revealjs')
 
   I am using `tm` and `RWeka` packages for previous assignments, but occassionaly noticed a new package `quanteda` which is more efficient and clean, clear and concise and text mining and n-grams words prediction. At the same time I am using [`shinyjs`](https://github.com/daattali/shinyjs) package to come out with better output and interactive. I've removed the graphs while you can refer to [Natural Language Analysis](https://beta.rstudioconnect.com/englianhu/Natural-Language-Analysis/) if you'ld like to.
 
-  You are feel free to browse over the shiny app at [Final Project-Submission (Shiny App)](https://badalc.shinyapps.io/Text_Prediction/).
+  You are feel free to browse over the shiny app at [Final Project-Submission (Shiny App)](https://ronjubd.shinyapps.io/Capstone/).
 
 # 3. SECTION C
 
@@ -66,14 +66,14 @@ library('revealjs')
 
   It's useful to record some information about how your file was created.
   
-  - File creation date: 2015-07-22
+  - File creation date: 2019-10-10
   - File latest updated date: `r Sys.Date()`
   - `r R.version.string`
   - R version (short form): `r getRversion()`
   - [**revealjs** package](https://github.com/rstudio/revealjs) version: `r packageVersion('revealjs')`
   - File version: 1.0.0
-  - Author Profile: [Badal Chowdhury]
-  - GitHub: [Source Code](https://github.com/badal2017/Capstone)
+  - Author Profile: [Razib Ahamed Khan]
+  - GitHub: [Source Code](https://github.com/KRazib/Capstone)
   - Additional session information:
 
 ```{r info, echo=FALSE, results='asis'}

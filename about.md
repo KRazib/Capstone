@@ -10,6 +10,6 @@ This application is developed as part of the requirement for the **Coursera Data
 2. Information on the n-gram backoff algorithm used to predict is shown as indication.
 
 #### Note:
-The source codes for ui.R and server.R files are also available on the [GitHub repo](https://github.com/badal2017/Capstone)
+The source codes for ui.R and server.R files are also available on the [GitHub repo](https://github.com/KRazib/Capstone)
 
 Presentation Slide decks are available on the [RPubs page](https://rpubs.com/badalchowdhury/capstone)
